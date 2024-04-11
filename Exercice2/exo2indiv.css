@@ -1,0 +1,8 @@
+h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-size: 200px;
+    color: #09AFC6;
+    text-align: center;
+    -webkit-text-stroke:#111111 2px;
+}
